@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "487392861145",
+    "firebase_url": "https://kishannwtcodingchallenge.firebaseio.com",
+    "project_id": "kishannwtcodingchallenge",
+    "storage_bucket": "kishannwtcodingchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487392861145:android:5b4a68c765190fa2",
+        "android_client_info": {
+          "package_name": "sagar.com.kishannwtcodingchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487392861145-80gucm44e78d3vgrf19l4dpb1c9fha9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sagar.com.kishannwtcodingchallenge",
+            "certificate_hash": "f4ce659db8e54f1d9b0fb60c9032fc7ef7f7f02a"
+          }
+        },
+        {
+          "client_id": "487392861145-29s16nd3bjkv636b66rpnm567cpkhqjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTMXAru1T6LCRPJCKAA7rT_jslb3EtJE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487392861145-29s16nd3bjkv636b66rpnm567cpkhqjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KishanNwtCodingChallenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_one">Contact List</string>
+    <string name="tab_two">Messsage Sent</string>
+</resources>
